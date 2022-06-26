@@ -10,7 +10,7 @@ This project was built with
 
 #### The idea behing this game is to accumulate scores by correctly guessing a number that corresponds with the secrete number.
 
-NOTE: The highes score is 20, and scores keeps decreasing for every wrong guess.
+NOTE: The highest score obtainable is 20, and scores keeps decreasing for every wrong guess.
 
 - CHECK BOTTON: This allows you compare your answer, if it correlates with the secrete number.
 - AGAIN BOTTON: This botton resets the game to its default.
